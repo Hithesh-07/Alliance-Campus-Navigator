@@ -1,0 +1,21 @@
+id,name,category,description
+LOC-001,Administrative Block,ADMINISTRATIVE,"Main university administration, Vice Chancellor's office, admissions, registrar, and visitor reception."
+LOC-003,Engineering Block,ACADEMIC,"Lecture theatres, smart classrooms, robotics and IoT laboratories, and student project studios."
+LOC-004,Alliance University Library,ACADEMIC,"Iconic central learning repository with distinctive dome, digital archives, study pods, and extensive academic collections."
+LOC-005,Learning Centre 1,ACADEMIC,"Specialized multimedia classrooms, case study presentation halls, and collaborative group study areas."
+LOC-010,Alliance Food Court,FOOD,"Spacious multi-vendor dining facility serving student meals, international breakfast, and evening refreshments."
+LOC-011,Daana Paani Multicuisine Cafe,FOOD,"Popular fast-casual cafe near western campus gateway offering snacks, cold beverages, and quick bites."
+LOC-012,Alliance Cricket Ground,SPORTS,"Full-sized natural turf cricket ground with turf pitch, practice nets, and spectator boundaries."
+LOC-013,Football Ground,SPORTS,Spacious regulation football arena equipped with tournament touchlines and athletic jogging perimeter.
+LOC-014,Alliance Volleyball Court,SPORTS,Outdoor sand and clay volleyball court with competition net line and night floodlights.
+LOC-015,Basketball Court,SPORTS,Hardcourt all-weather basketball facility with perimeter fencing and scorekeeper stands.
+LOC-016,Hall of Residence 1 (HOR 1),RESIDENTIAL,"Student residential complex with furnished rooms, student lounge, Wi-Fi zones, and resident warden desk."
+LOC-017,Hall of Residence 2 (HOR 2),RESIDENTIAL,"Multistory student hostel block with dining connectivity, laundry facilities, and indoor game room."
+LOC-018,Hall of Residence 5 (HOR 5),RESIDENTIAL,Modern quadrangle hostel building located adjacent to the cricket ground and sports zone.
+LOC-019,Staff Quarters,RESIDENTIAL,"Peaceful residential towers accommodating university faculty, visiting professors, and administrative personnel."
+LOC-020,Water Treatment Plant,OTHER,Eco-friendly sustainable campus water recycling and reverse osmosis filtration utility facility.
+LOC-021,Activity Center,SPORTS,
+LOC-022,Hor 3,RESIDENTIAL,
+LOC-023,Nescafe,ACADEMIC,
+LOC-024,Aromas,FOOD,
+LOC-025,Savi Sannidhi,ACADEMIC,

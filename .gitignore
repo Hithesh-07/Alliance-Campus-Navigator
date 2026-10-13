@@ -1,0 +1,11 @@
+# Output binaries
+out/
+bin/
+*.class
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
